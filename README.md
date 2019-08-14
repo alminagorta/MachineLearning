@@ -9,7 +9,7 @@ To find the raw data:
 
 ## Trends:
 
-<img src="https://github.com/alminagorta/MachineLearning/blob/master/Figures/Trend_WaterLevel_Ontario.png" width=400/>
+<img src="https://github.com/alminagorta/MachineLearning/blob/master/Figures/Trend_WaterLevel_Ontario.png" width=700/>
 
 ## More Information: 
 Please visit the [bulletin] or contact o.alminagorta@utoronto.ca
