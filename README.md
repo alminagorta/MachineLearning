@@ -1,5 +1,7 @@
 # Forecasting - Lake Ontario
-This repository contains some results and analysis of prediction using machine learning 
+
+Using 100 years of data (1918-2018), this figure shows a prediction for the next 2 years. For details see [here]
+Monthly mean water levels in metres referred to IGLD 1985
 
  ![](https://github.com/alminagorta/MachineLearning/blob/master/Figures/Time%20Series_WaterLevel_Ontario.png)
 
