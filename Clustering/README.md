@@ -7,7 +7,8 @@ The goal of this algorithm is to find 3 groups in the data based on spawning tem
  
 The algorithm splits the data in three groups based on the distance feature. Each cluster centroid is marked with a blue circle.
 
- ![](https://github.com/alminagorta/MachineLearning/blob/master/Clustering/K-means.png)
+<img src="https://github.com/alminagorta/MachineLearning/blob/master/Clustering/K-means.png" width=1200/>
+
 
 ## Data Source- 159 fish data parameters:
 To find the raw data:
