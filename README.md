@@ -1,6 +1,6 @@
 # Forecasting - Lake Ontario 2020-2021
 
-100 years of data (1918-2018) are used to forecast monthly mean water levels (in metres referred to IGLD 1985). Specific water level values for 2020 and 2021 can be found [here]
+100 years of data (1918-2018) are used to forecast monthly mean water levels (in metres referred to IGLD 1985). Forecasted water level values for 2020 and 2021 can be found [here]
 
 [here]: https://github.com/alminagorta/MachineLearning/blob/master/Figures/ReadmeOA.txt
 
