@@ -27,16 +27,13 @@ Commonly displayed as dendogram and it is clustered by steps. At each step, the 
 * In other cases the user can select the number cluster. In this case I selected to have 6 clusters. Note that the dashed horizontal line in the dendogram cut the six main clusters, which are also presented in the scatter plot below by different colors.
 
 
+<img src="https://github.com/alminagorta/MachineLearning/blob/master/Clustering/Dendogram1.png" width=1200/>
 <img src="https://github.com/alminagorta/MachineLearning/blob/master/Clustering/Scatter1.png" width=1200/>
 
-<img src="https://github.com/alminagorta/MachineLearning/blob/master/Clustering/Dendogram1.png" width=1200/>
-
-## Data Source- 159 fish data parameters:
-To find the raw data:
-* Please visit the [Ontario freswater Fishes life History database]  
 
 ## More Information: 
 
+* To find the raw data please visit the [Ontario freswater Fishes life History database]  
 * Python Code: "Analysis_Ontario_fishes_v1.py". Contact o.alminagorta@utoronto.ca
 
 
