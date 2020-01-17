@@ -15,24 +15,24 @@ The algorithm splits the data in three groups based on the distance feature. Eac
 
 
 
-## Using Hierarchical Clustering. Commonly displayed as dendogram. In the dendogram presented below:
+## Using Hierarchical Clustering
+
+Commonly displayed as dendogram and it is clustered by steps. At each step, the cluster that are most similar are joined into a single new cluster. For instance, in the dendogram presented below:
 
 * The vertical axis represents the distance or dissimilarity between clusters
-* The horizontal axis represents the objects
-* At each step, the cluster that are most similar are joined into a single new cluster 
+* The horizontal axis represents the index of each fish species 
 * The dashed horizontal line cut the three main clusters. Typically this line es selected considering the maximum distance vertically without intersecting a cluster.If you want to learn more about dendograms, see these resources:
 
-
-
-Python Code: "Analysis_Ontario_fishes_v1.py".  More information at o.alminagorta@utoronto.ca
-
+<img src="https://github.com/alminagorta/MachineLearning/blob/master/Clustering/Dendogram1.png" width=1200/>
+<img src="https://github.com/alminagorta/MachineLearning/blob/master/Clustering/Scatter1.png" width=1200/>
 
 
 ## Data Source- 159 fish data parameters:
 To find the raw data:
-* http://www.ontariofishes.ca/home.htm
+* Please visit the [Ontario freswater Fishes life History database]  
 
 ## More Information: 
-Please visit the [Ontario freswater Fishes life History database] or contact o.alminagorta@utoronto.ca
+Python Code: "Analysis_Ontario_fishes_v1.py". Contact o.alminagorta@utoronto.ca
+
 
 
