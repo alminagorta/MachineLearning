@@ -24,7 +24,7 @@ Commonly displayed as dendogram and it is clustered by steps. At each step, the 
 * The vertical axis represents the distance or dissimilarity between clusters
 * The horizontal axis represents the index of each fish species (also presented in the scatter plot) 
 * How to select the number of clusters? typically the approach is to set the horizontal-dashed line to cut the maximum distance vertically without intersecting a cluster. In our case should be three.
-* In other cases the user can select the number cluster. In this case I selected to have 6 clusters. Note that the dashed horizontal line in the dendogram cut the six main clusters, which are also presented in the scatter plot below by different colors.
+* Also, the user can select the number cluster. In this case I selected to have 6 clusters. Note that the dashed horizontal line in the dendogram cut the six main clusters, which are also presented in the scatter plot below by different colors.
 
 
 <img src="https://github.com/alminagorta/MachineLearning/blob/master/Clustering/Dendogram1.png" width=1200/>
